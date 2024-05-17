@@ -1,6 +1,5 @@
 <script>
 
-    sendData() {
 </script>
 
 <template>
